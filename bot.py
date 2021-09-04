@@ -2,7 +2,7 @@ import telebot
 from telebot.types import *
 import os  # To get the environment variable
 from dict import *
-from replit import keep_alive.keep_alive # This is for replit to keep the bot running
+from keep_alive import keep_alive  # This is for replit to keep the bot running
 
 # Imports
 
